@@ -25,7 +25,7 @@
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/rajdeep-banerjee-a3b24618b/)      [Instagram](https://www.instagram.com/ig_weirdwizard/?igshid=bfm00lit1mpd)
 - ⚡ Fun fact: I prefer Biryani over anything 
 - 🎧 My [Spotify Playlist](https://open.spotify.com/playlist/2ALGdrm5TlebOTKFKTKoj5?si=enkFV7uvSfebjxj3nT_nYw)🎶
-- ❗❗ Will be contributing further from this account
+- ❗❗ Will be contributing further from this account(Account created on 1st October 2020)
 
 
 [![Twitter: weird_rajdeep](https://img.shields.io/twitter/follow/weird_rajdeep?style=social)](https://twitter.com/weird_rajdeep)
@@ -42,14 +42,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 
 <a href="https://github.com/weirdwizard20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdwizard20&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/weirdwizard20">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=weirdwizard20&show_icons=true&theme=light&line_height=27" alt="Github Statistics"/>
 </a>
 <div align="center">
 
-### Show some ❤️ 
+### Show some ❤️
+Kindly Follow
    
 
 
