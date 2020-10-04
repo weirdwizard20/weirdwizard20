@@ -47,7 +47,6 @@
 <div align="center">
 
 ### Show some ❤️
-Kindly Follow
    
 
 
