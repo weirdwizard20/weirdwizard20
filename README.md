@@ -5,7 +5,7 @@
 <a href="https://twitter.com/weird_rajdeep">
   <img align="left" alt="Rajdeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/rajdeep-banerjee-a3b24618b">
+<a href="https://linkedin.com/in/weirdrajdeep">
   <img align="left" alt="Rajdeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/weirdwizard20">
@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on Kotlin And Unity 
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking to collab with AI Developers
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/rajdeep-banerjee-a3b24618b/)      [Instagram](https://www.instagram.com/ig_weirdwizard/?igshid=bfm00lit1mpd)
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/weirdrajdeep/)      [Instagram](https://www.instagram.com/ig_weirdwizard/?igshid=bfm00lit1mpd)
 - ⚡ Fun fact: I prefer Biryani over anything 
 - 🎧 My [Spotify Playlist](https://open.spotify.com/playlist/2ALGdrm5TlebOTKFKTKoj5?si=enkFV7uvSfebjxj3nT_nYw)🎶
 - ❗❗ Will be contributing further from this account(Account created on 1st October 2020)
