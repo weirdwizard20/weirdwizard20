@@ -30,7 +30,7 @@ Hey Rajdeep Here 👋
 - ⚡ Fun fact: I prefer Biryani over anything 
 - 🎧 My [Spotify Playlist](https://open.spotify.com/playlist/2ALGdrm5TlebOTKFKTKoj5?si=enkFV7uvSfebjxj3nT_nYw) 
 - ❗❗ Will be contributing further from this account
-- ➰ Peace Out🎉
+
 
 [![Twitter: weird_rajdeep](https://img.shields.io/twitter/follow/weird_rajdeep?style=social)](https://twitter.com/weird_rajdeep)
 [![Linkedin: rajdeep-banerjee-a3b24618b](https://img.shields.io/badge/-rajdeep-banerjee-a3b24618b-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/rajdeep-banerjee-a3b24618b/)
@@ -46,14 +46,6 @@ Hey Rajdeep Here 👋
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>   
 
-<a href="https://github.com/weirdwizard20">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weirdwizard20&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/weirdwizard20">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=iampawan&show_icons=true&theme=light&line_height=27" alt="Github Statistics"/>
-</a>
-<div align="center">
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
