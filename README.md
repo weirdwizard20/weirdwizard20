@@ -1,4 +1,4 @@
-## Hey RAJDEEP This Side 👋
+## Rajdeep Banerjee 👋
 
 
 
