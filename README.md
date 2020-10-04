@@ -24,7 +24,7 @@
 - 🤔 I’m looking for help with AI Developers
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/rajdeep-banerjee-a3b24618b/)      [Instagram](https://www.instagram.com/ig_weirdwizard/?igshid=bfm00lit1mpd)
 - ⚡ Fun fact: I prefer Biryani over anything 
-- 🎧 My [Spotify Playlist](https://open.spotify.com/playlist/2ALGdrm5TlebOTKFKTKoj5?si=enkFV7uvSfebjxj3nT_nYw)<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Spotify/Spotify.png"></code>
+- 🎧 My [Spotify Playlist](https://open.spotify.com/playlist/2ALGdrm5TlebOTKFKTKoj5?si=enkFV7uvSfebjxj3nT_nYw)🎶
 - ❗❗ Will be contributing further from this account
 
 
