@@ -2,7 +2,7 @@
 
 
 
-<a href="https://twitter.com/weird_rajdep">
+<a href="https://twitter.com/weird_rajdeep">
   <img align="left" alt="Rajdeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/rajdeep-banerjee-a3b24618b">
@@ -11,7 +11,7 @@
 <a href="https://github.com/weirdwizard20">
   <img align="left" alt="Rajdeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com//ig_weirdwizard/">
+<a href="https://instagram.com/ig_weirdwizard/">
   <img align="left" alt="Rajdeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
