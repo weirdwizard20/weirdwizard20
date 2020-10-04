@@ -33,7 +33,6 @@ Hey Rajdeep Here 👋
 
 
 [![Twitter: weird_rajdeep](https://img.shields.io/twitter/follow/weird_rajdeep?style=social)](https://twitter.com/weird_rajdeep)
-[![Linkedin: rajdeep-banerjee-a3b24618b](https://img.shields.io/badge/-rajdeep-banerjee-a3b24618b-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rajdeep-banerjee-a3b24618b/)](https://www.linkedin.com/in/rajdeep-banerjee-a3b24618b/)
 [![GitHub weirdwizard20](https://img.shields.io/github/followers/weirdwizard20?label=follow&style=social)](https://github.com/weirdwizard20)
 
 
@@ -41,10 +40,11 @@ Hey Rajdeep Here 👋
 **Languages I Prefer:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>   
+   
 
 
 
