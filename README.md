@@ -26,7 +26,7 @@ Hey Rajdeep Here 👋
 - 🔭 I’m currently working on Kotlin And Unity 
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with AI Developers
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/rajdeep-banerjee-a3b24618b/)  Instagram [@weirdwizard](https://www.instagram.com/ig_weirdwizard/?igshid=bfm00lit1mpd)
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/rajdeep-banerjee-a3b24618b/)      [Instagram](https://www.instagram.com/ig_weirdwizard/?igshid=bfm00lit1mpd)
 - ⚡ Fun fact: I prefer Biryani over anything 
 - 🎧 My [Spotify Playlist](https://open.spotify.com/playlist/2ALGdrm5TlebOTKFKTKoj5?si=enkFV7uvSfebjxj3nT_nYw) 
 - ❗❗ Will be contributing further from this account
