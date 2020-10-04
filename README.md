@@ -6,5 +6,5 @@ Hey Rajdeep Here 👋
 - 📫 How to reach me:Twitter [@weird_rajdeep](https://twitter.com/weird_rajdeep) Instagram [@weirdwizard](https://www.instagram.com/ig_weirdwizard/?igshid=bfm00lit1mpd)
 - ⚡ Fun fact: I prefer Biryani over anything
 --> This is my New Account Will be updating all my upcoming works over here 
-
--🎧My [Spotify Playlist](https://open.spotify.com/playlist/2ALGdrm5TlebOTKFKTKoj5?si=enkFV7uvSfebjxj3nT_nYw)  
+-🎧My [Spotify Playlist](https://open.spotify.com/playlist/2ALGdrm5TlebOTKFKTKoj5?si=enkFV7uvSfebjxj3nT_nYw) 
+-Peace Out🎉
