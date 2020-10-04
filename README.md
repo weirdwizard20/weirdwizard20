@@ -1,4 +1,4 @@
-## Rajdeep Banerjee 👋
+## Hey RAJDEEP This Side 👋
 
 
 
@@ -18,10 +18,6 @@
 
 <br/>
 <br/>
-
-
-
-Hey Rajdeep Here 👋
 
 - 🔭 I’m currently working on Kotlin And Unity 
 - 🌱 I’m currently learning Flutter
