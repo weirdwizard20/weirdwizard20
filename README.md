@@ -1,5 +1,5 @@
 ![Hello](Hello.gif)
-## I am Rajdeep Banerjee
+##  Rajdeep Banerjee
 ![](https://komarev.com/ghpvc/?username=weirdwizard20)
 
 
