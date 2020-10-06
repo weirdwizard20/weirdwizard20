@@ -1,4 +1,6 @@
-## Hey! Rajdeep This Side 👋
+![Hello](Hello.gif)
+## Rajdeep Banerjee ![](https://komarev.com/ghpvc/?username=weirdwizard20)
+
 
 
 
