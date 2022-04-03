@@ -4,8 +4,6 @@
 
 
 
-<a href="https://twitter.com/weird_rajdeep">
-  <img align="left" alt="Rajdeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/weirdrajdeep">
   <img align="left" alt="Rajdeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -30,7 +28,6 @@
 - ⚡ Contribution since 2022
 
 
-[![Twitter: weird_rajdeep](https://img.shields.io/twitter/follow/weird_rajdeep?style=social)](https://twitter.com/weird_rajdeep)
 [![GitHub weirdwizard20](https://img.shields.io/github/followers/weirdwizard20?label=follow&style=social)](https://github.com/weirdwizard20)
 [![Linkedin: weirdrajdeep](https://img.shields.io/badge/-weirdrajdeep-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weirdrajdeep/)](https://www.linkedin.com/in/weirdrajdeep/)
 
