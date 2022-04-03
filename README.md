@@ -25,7 +25,7 @@
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/weirdrajdeep/)      [Instagram](https://www.instagram.com/ig_weirdwizard/?igshid=bfm00lit1mpd)
 - ⚡ Fun fact: I prefer Biryani over anything 
 - 🎧 My [Spotify Playlist](https://open.spotify.com/playlist/2ALGdrm5TlebOTKFKTKoj5?si=enkFV7uvSfebjxj3nT_nYw)🎶
-- ⚡ Contribution since 2022
+- ⚡ This account will have contribution from 2022 onwards 
 
 
 [![GitHub weirdwizard20](https://img.shields.io/github/followers/weirdwizard20?label=follow&style=social)](https://github.com/weirdwizard20)
