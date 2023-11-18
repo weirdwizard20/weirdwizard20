@@ -19,8 +19,7 @@
 <br/>
 <br/>
 
-- 🔭 Cyber Security Enthusiast
-- 🌱 Previously worked as a Android Developer 
+- 🔭 Cyber Security Enthusiast 
 - 🤔 Always looking forward to learn new topics
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/weirdrajdeep/)      [Instagram](https://www.instagram.com/ig_weirdwizard/?igshid=bfm00lit1mpd)
 - ⚡ Fun fact: I prefer Biryani over anything 
@@ -35,7 +34,6 @@
 
 **Languages and Platforms**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
